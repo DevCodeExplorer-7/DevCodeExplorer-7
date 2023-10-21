@@ -1,4 +1,4 @@
-# Hola, mi Nombre es Pablo Burgos
+# Hola 👋, Mi Nombre es Pablo Burgos
 <h1 align="center" >Bienvenido "Explorador de Código en Desarrollo" </h1>
 "Soy un estudiante de Ingeniería en Informática que está dando sus primeros pasos en el emocionante mundo de la programación. Me encuentro en una fase inicial de mi aprendizaje y estoy dedicando mi tiempo a explorar el desarrollo de diversas aplicaciones, tanto en el ámbito web como en el móvil. Mi objetivo es adquirir experiencia y conocimientos en el desarrollo de software para poder contribuir de manera significativa en proyectos futuros. Además, administro un canal en YouTube donde comparto tutoriales sobre programación y resuelvo ejercicios en diferentes lenguajes. Siempre en busca de aprender y compartir conocimiento.¡Siéntete libre de explorar mi perfil y seguir mi viaje de aprendizaje en el mundo de la programación!"
 
