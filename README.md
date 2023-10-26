@@ -6,7 +6,7 @@
 
 🌱 Actualmente estoy aprendiendo: 
 - **Spring Boot **
-- ** Machine Learning **
+- ** Django **
 
 <p align="left">
 </p>
