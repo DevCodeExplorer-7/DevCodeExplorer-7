@@ -6,7 +6,8 @@
 
 🌱 Actualmente estoy aprendiendo: 
 - **Spring Boot **
-- ** Django **
+- ** AWS **
+- ** React **
 
 <p align="left">
 </p>
